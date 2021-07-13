@@ -7,23 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0129F7F2698157000F0A1D1 /* discover.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D0129F7E2698157000F0A1D1 /* discover.mp4 */; };
+		D0129F82269816BB00F0A1D1 /* green.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D0129F81269816BB00F0A1D1 /* green.mp4 */; };
+		D0129F8526981A9C00F0A1D1 /* pelikin.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D0129F8426981A9C00F0A1D1 /* pelikin.mp4 */; };
+		D0EFF2F8269BC18C006B52CD /* garden.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D0EFF2F7269BC18B006B52CD /* garden.mp4 */; };
 		D0F8EF292697DA1E000CD79F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF282697DA1E000CD79F /* AppDelegate.swift */; };
 		D0F8EF2B2697DA1E000CD79F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF2A2697DA1E000CD79F /* SceneDelegate.swift */; };
-		D0F8EF2D2697DA1E000CD79F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF2C2697DA1E000CD79F /* ViewController.swift */; };
 		D0F8EF302697DA1E000CD79F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0F8EF2E2697DA1E000CD79F /* Main.storyboard */; };
 		D0F8EF322697DA24000CD79F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F8EF312697DA24000CD79F /* Assets.xcassets */; };
 		D0F8EF352697DA24000CD79F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0F8EF332697DA24000CD79F /* LaunchScreen.storyboard */; };
+		D0F8EF3E2697DBAB000CD79F /* ProjectsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF3D2697DBAB000CD79F /* ProjectsCollectionViewController.swift */; };
+		D0F8EF452697DC2D000CD79F /* ProjectCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF442697DC2D000CD79F /* ProjectCollectionViewCell.swift */; };
+		D0F8EF482697DC4C000CD79F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF472697DC4C000CD79F /* DetailViewController.swift */; };
+		D0F8EF4C2697DC75000CD79F /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF4B2697DC75000CD79F /* AboutViewController.swift */; };
+		D0F8EF672697EF81000CD79F /* ProjectModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F8EF662697EF81000CD79F /* ProjectModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0129F7E2698157000F0A1D1 /* discover.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = discover.mp4; sourceTree = "<group>"; };
+		D0129F81269816BB00F0A1D1 /* green.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = green.mp4; sourceTree = "<group>"; };
+		D0129F8426981A9C00F0A1D1 /* pelikin.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = pelikin.mp4; sourceTree = "<group>"; };
+		D0EFF2F7269BC18B006B52CD /* garden.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = garden.mp4; path = ../../../../Downloads/garden.mp4; sourceTree = "<group>"; };
 		D0F8EF252697DA1D000CD79F /* Portfilio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portfilio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F8EF282697DA1E000CD79F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0F8EF2A2697DA1E000CD79F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D0F8EF2C2697DA1E000CD79F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D0F8EF2F2697DA1E000CD79F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D0F8EF312697DA24000CD79F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0F8EF342697DA24000CD79F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0F8EF362697DA24000CD79F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0F8EF3D2697DBAB000CD79F /* ProjectsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsCollectionViewController.swift; sourceTree = "<group>"; };
+		D0F8EF442697DC2D000CD79F /* ProjectCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectCollectionViewCell.swift; sourceTree = "<group>"; };
+		D0F8EF472697DC4C000CD79F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D0F8EF4B2697DC75000CD79F /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		D0F8EF662697EF81000CD79F /* ProjectModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +74,29 @@
 			children = (
 				D0F8EF282697DA1E000CD79F /* AppDelegate.swift */,
 				D0F8EF2A2697DA1E000CD79F /* SceneDelegate.swift */,
-				D0F8EF2C2697DA1E000CD79F /* ViewController.swift */,
 				D0F8EF2E2697DA1E000CD79F /* Main.storyboard */,
+				D0129F8426981A9C00F0A1D1 /* pelikin.mp4 */,
+				D0129F81269816BB00F0A1D1 /* green.mp4 */,
+				D0EFF2F7269BC18B006B52CD /* garden.mp4 */,
+				D0129F7E2698157000F0A1D1 /* discover.mp4 */,
 				D0F8EF312697DA24000CD79F /* Assets.xcassets */,
 				D0F8EF332697DA24000CD79F /* LaunchScreen.storyboard */,
 				D0F8EF362697DA24000CD79F /* Info.plist */,
+				D0F8EF4E2697DDDC000CD79F /* Controller */,
+				D0F8EF662697EF81000CD79F /* ProjectModel.swift */,
 			);
 			path = Portfilio;
+			sourceTree = "<group>";
+		};
+		D0F8EF4E2697DDDC000CD79F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D0F8EF3D2697DBAB000CD79F /* ProjectsCollectionViewController.swift */,
+				D0F8EF442697DC2D000CD79F /* ProjectCollectionViewCell.swift */,
+				D0F8EF472697DC4C000CD79F /* DetailViewController.swift */,
+				D0F8EF4B2697DC75000CD79F /* AboutViewController.swift */,
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +156,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0129F7F2698157000F0A1D1 /* discover.mp4 in Resources */,
+				D0129F8526981A9C00F0A1D1 /* pelikin.mp4 in Resources */,
+				D0EFF2F8269BC18C006B52CD /* garden.mp4 in Resources */,
 				D0F8EF352697DA24000CD79F /* LaunchScreen.storyboard in Resources */,
 				D0F8EF322697DA24000CD79F /* Assets.xcassets in Resources */,
+				D0129F82269816BB00F0A1D1 /* green.mp4 in Resources */,
 				D0F8EF302697DA1E000CD79F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +173,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0F8EF2D2697DA1E000CD79F /* ViewController.swift in Sources */,
+				D0F8EF4C2697DC75000CD79F /* AboutViewController.swift in Sources */,
+				D0F8EF452697DC2D000CD79F /* ProjectCollectionViewCell.swift in Sources */,
+				D0F8EF672697EF81000CD79F /* ProjectModel.swift in Sources */,
 				D0F8EF292697DA1E000CD79F /* AppDelegate.swift in Sources */,
+				D0F8EF482697DC4C000CD79F /* DetailViewController.swift in Sources */,
+				D0F8EF3E2697DBAB000CD79F /* ProjectsCollectionViewController.swift in Sources */,
 				D0F8EF2B2697DA1E000CD79F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,7 +333,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Summer.Portfilio;
+				PRODUCT_BUNDLE_IDENTIFIER = Summer.Portfolio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -312,7 +352,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Summer.Portfilio;
+				PRODUCT_BUNDLE_IDENTIFIER = Summer.Portfolio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
